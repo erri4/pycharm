@@ -1,4 +1,4 @@
-from func import *
+from functions import *
 
 
 i = input("number")

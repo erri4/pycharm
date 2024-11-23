@@ -1,4 +1,4 @@
-from func import *
+from functions import *
 
 while 1 == 1:
     f = input("percent from what:")

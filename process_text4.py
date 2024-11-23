@@ -1,7 +1,7 @@
 """
 the 4th version of the process_text function (replace).
 """
-from func import *
+from functions import *
 
 
 i = input("text")

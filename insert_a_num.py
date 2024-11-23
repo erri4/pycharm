@@ -1,4 +1,4 @@
-from func import *
+from functions import *
 
 
 num_loop = 0

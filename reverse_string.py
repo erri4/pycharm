@@ -1,4 +1,4 @@
-from func import *
+from functions import *
 
 
 h = input("what reverse value you want?")
